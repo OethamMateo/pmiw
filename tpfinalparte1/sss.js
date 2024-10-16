@@ -1,5 +1,0 @@
-
-function mousePressed() {
-  escena++;
-  cambiarEscena();
-}
